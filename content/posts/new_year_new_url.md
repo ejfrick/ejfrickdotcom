@@ -18,7 +18,7 @@ As one might have noticed I changed my name when I got married, thus the shiny n
 
 ## I Do Not Work At Box
 2023 was a rough year in tech in terms of layoffs and unfortunately my own luck ran out. A good chunk of my team got cut and I was unfortunately among those affected. Once again goes to show that layoffs are terribly arbitrary.
-Box did take quite good care of me and I was very lucky to be mainly stress free by the time my wedding day rolled around, mainly because...
+Box did take quite good care of me, and I was very lucky to be mainly stress-free by the time my wedding day rolled around, mainly because...
 
 ## I Now Work At ConductorOne
 I ended up being officially unemployed without an offer for about two weeks, which was truly miraculous given the market. Massive props to all my now-coworkers who got the offer ball rolling quickly.

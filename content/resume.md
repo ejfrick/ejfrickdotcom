@@ -11,7 +11,7 @@ I'm a highly adaptable and versatile engineer who has constantly grown in scope,
 
 I am the first reliability hire and am responsible for pushing the company along the reliability maturity curve.
 
-I've contributed to and written Terraform and Pulumi providers ([including adding users to the Temporal Cloud Terraform provider](https://github.com/temporalio/terraform-provider-temporalcloud/releases/tag/v0.0.6)), [released an open-source connector for our app](https://github.com/ConductorOne/baton-temporalcloud), created an observability-as-code framework, wrote the first SLOs in company history, and helped migrate to Temporal Cloud (again), amongst other things.
+I've completely automated application deployments using [FluxCD](https://fluxcd.io) (and have been dubbed "deploy BDFL" by my CTO for it), contributed to and written Terraform and Pulumi providers ([including adding users to the Temporal Cloud Terraform provider](https://github.com/temporalio/terraform-provider-temporalcloud/releases/tag/v0.0.6)), [released an open-source connector for our app](https://github.com/ConductorOne/baton-temporalcloud), created an observability-as-code framework, wrote the first SLOs in company history, and helped migrate to Temporal Cloud (again), amongst other things.
 
 ### Site Reliability Engineer @ [Box](https://www.box.com), February 2022 to September 2023
 
@@ -70,9 +70,9 @@ I ran websites & storage networks, automated complex tasks with Python & AppleSc
 I was a technical support analyst, and part-time systems administrator for day-to-day operations of a higher education environment. I became team lead within the first month. I achieved a 25% average reduction in time to resolution for various macOS/Linux related manual tasks by automating them with Python & Bash, provided training on macOS/Linux troubleshooting, and redesigned & reimplemented the campus digital signage system.
 ## Skills
 
-- __Programming/Scripting Languages:__ Python (FastAPI, Flask, Celery, etc.), Go (Echo, Watermill, Gin, gORM, etc.), JavaScript/TypeScript (Node.js, Deno, SvelteKit, React.js, etc.), Bash, HTML, CSS, SQL, some Rust (PyO3), some Java, some Groovy
+- __Programming/Scripting Languages:__ Go (Echo, Watermill, Gin, gORM, Fiber, etc.), Python (FastAPI, Flask, Celery, etc.), JavaScript/TypeScript (Node.js, Deno, SvelteKit, React.js, etc.), Bash, HTML, CSS, SQL, some Rust (PyO3), some Java, some Groovy
 
-- __Databases:__ MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis, BigTable, BigQuery, etcd, some Neo4j
+- __Databases:__ MySQL, PostgreSQL, MongoDB, ElasticSearch, Redis/Valkey, BigTable, BigQuery, etcd, some Neo4j
 
 - __Messaging & Streaming:__ Apache Kafka, Apache Storm, GCP PubSub, Redis
 
