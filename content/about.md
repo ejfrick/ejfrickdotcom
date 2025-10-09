@@ -4,7 +4,9 @@ date: 2021-02-12T23:49:48-08:00
 draft: false
 ---
 ## About Me
-Hi hi. I'm an SRE, currently at [ConductorOne](https://conductorone.com). I used to work at [Box](https://www.box.com). You can call me EJ.
+Hi hi. I'm an software engineer with a focus on reliability, currently at [ConductorOne](https://conductorone.com). I used to work at [Box](https://www.box.com). You can also call me EJ.
+
+I currently live in London, England, and called Portland, Oregon home for many years.
 
 ## About This Blog
 
