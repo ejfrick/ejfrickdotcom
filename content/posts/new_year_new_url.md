@@ -2,7 +2,7 @@
 draft = false
 date = 2024-02-02T00:00:00-08:00
 title = "New Year, New URL"
-authors = ["Enny Jole"]
+authors = ["Enny J. Frick"]
 tags = ["meta"]
 categories = ["meta", "blog"]
 externalLink = ""

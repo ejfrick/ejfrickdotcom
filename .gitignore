@@ -7,3 +7,5 @@
 /.vscode/*
 /.frontmatter
 /.frontmatter/*
+.idea
+hugo-deploy.toml

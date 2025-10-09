@@ -4,7 +4,7 @@ date = 2022-05-09T19:08:04-07:00
 draft = true
 description = "Why We Need to Pay More Attention to How and When We Write Docs"
 slug = "technical documentation is a reliability practice"
-authors = ["Enny Jole"]
+authors = ["Enny J. Frick"]
 tags = ["reliability", "sre", "documentation", "devops", "strategy"]
 categories = ["blog", "reliability", "documentation"]
 +++

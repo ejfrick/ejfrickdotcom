@@ -1,0 +1,98 @@
+baseurl = "http://www.ejfrick.com"
+title = "Enny J. Frick"
+theme = ["github.com/gcc42/hugo-redirect", "github.com/luizdepra/hugo-coder"]
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+author = "Enny J. Frick"
+info = "SRE: Super Radical Engineer | she/her"
+description = "Enny J. Frick's personal website"
+GitHubUser = "ejfrick"
+keywords = "blog,developer,personal"
+avatarurl = "images/avatar.jpg"
+#gravatar = "john.doe@example.com"
+
+#favicon_32 = "images/favicon-32x32.png"
+#favicon_16 = "/img/favicon-16x16.png"
+
+footercontent = "All views expressed on this website are my own and not my employer's, unless explictly stated otherwise."
+hideFooter = false
+hideCredits = false
+hideCopyright = false
+since = 2021
+
+enableTwemoji = true
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+
+enableRobotsTXT = true
+[markup]
+[markup.highlight]
+anchorLineNos = false
+codeFences = true
+guessSyntax = false
+hl_Lines = ''
+lineAnchors = ''
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = 'dracula'
+tabWidth = 4
+[taxonomies]
+category = "categories"
+series = "series"
+tag = "tags"
+author = "authors"
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 1
+url = "https://github.com/ejfrick/"
+[[params.social]]
+name = "LinkedIn"
+icon = "fa fa-linkedin-square fa-2x"
+weight = 2
+url = "https://www.linkedin.com/in/enny-jole-frick/"
+
+# Menu links
+[[menu.main]]
+name = "About"
+weight = 1
+url = "about/"
+[[menu.main]]
+name = "Resume"
+weight = 2
+url = "resume/"
+[[menu.main]]
+name = "Blog"
+weight = 3
+url = "posts/"
+[[menu.main]]
+name = "Contact"
+weight = 4
+url = "contact/"
+
+[pagination]
+pagerSize = 20
+
+[deployment]
+
+[[deployment.targets]]
+name = "s3"
+url = "${S3_BUCKET}"
+cloudFrontDistributionID = "${CLOUDFRONT_ID}"
+
+[[deployment.matchers]]
+# Set custom content type for /sitemap.xml
+pattern = "^sitemap\\.xml$"
+contentType = "application/xml"
+gzip = true
