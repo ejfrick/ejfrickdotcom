@@ -80,6 +80,10 @@ url = "posts/"
 name = "Contact"
 weight = 4
 url = "contact/"
+[[menu.main]]
+name = "Public Keys"
+weight = 5
+url = "dev/keys/"
 
 [pagination]
 pagerSize = 20
