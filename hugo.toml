@@ -73,16 +73,20 @@ name = "Resume"
 weight = 2
 url = "resume/"
 [[menu.main]]
-name = "Blog"
+name = "Projects"
 weight = 3
+url = "dev/projects/"
+[[menu.main]]
+name = "Blog"
+weight = 4
 url = "posts/"
 [[menu.main]]
 name = "Contact"
-weight = 4
+weight = 5
 url = "contact/"
 [[menu.main]]
 name = "Public Keys"
-weight = 5
+weight = 6
 url = "dev/keys/"
 
 [pagination]
