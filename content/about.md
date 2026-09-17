@@ -4,7 +4,7 @@ date: 2021-02-12T23:49:48-08:00
 draft: false
 ---
 ## About Me
-Hi hi. I'm an software engineer with a focus on reliability, currently at [ConductorOne](https://conductorone.com). I used to work at [Box](https://www.box.com). You can also call me EJ.
+Hi hi. I'm an software engineer with a focus on reliability, currently at [C1.ai](https://c1.ai). I used to work at [Box](https://www.box.com). You can also call me EJ.
 
 I currently live in London, England, and called Portland, Oregon home for many years.
 
@@ -16,7 +16,7 @@ Also: hi if you're a recruiter and I applied to your company! It's nice to see p
 
 ## (Actually) About Me
 
-I am currently a Senior Software Engineer - Reliability (or Sr. SRE) at [ConductorOne](https://conductorone.com).
+I am currently a Senior Software Engineer - Reliability (or Sr. SRE) at [C1.ai](https://c1.ai) (formerly ConductorOne).
 
 Obligatory: views are my own and not my employer's.
 
