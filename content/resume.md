@@ -7,7 +7,7 @@ draft: false
 I'm a highly adaptable and versatile engineer who has constantly grown in scope, impact, and performance. I have wide variety of experiences across technical environments and a strong systems and software engineering background. I have designed CI/CD pipelines, wrangled Kubernetes clusters, ran multiple 100+ node distributed computing clusters, and turned fragile, opaque, automation into scalable, resilient, transparent, services throughout my career. I'm a whole-systems thinker and believe that reliability is everyone's responsibility.
 ## Experience
 
-### Senior Software Engineer - Reliability @ [ConductorOne](https://www.conductorone.com), November 2023 - present
+### Staff Site Reliability Engineer @ [C1.ai](https://c1.ai), November 2023 - present
 
 I am the first reliability hire and am responsible for pushing the company along the reliability maturity curve.
 

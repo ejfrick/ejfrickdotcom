@@ -16,14 +16,14 @@ Also: hi if you're a recruiter and I applied to your company! It's nice to see p
 
 ## (Actually) About Me
 
-I am currently a Senior Software Engineer - Reliability (or Sr. SRE) at [C1.ai](https://c1.ai) (formerly ConductorOne).
+I am currently a Staff Site Reliability Engineer at [C1.ai](https://c1.ai) (formerly ConductorOne).
 
 Obligatory: views are my own and not my employer's.
 
 I'm a highly adaptable and versatile engineer with a wide variety of experiences across technical environments and a strong systems and software engineering background. I have designed CI/CD pipelines, wrangled Kubernetes clusters, ran multiple 100+ node distributed computing clusters, and turned fragile, opaque, automation into scalable, resilient, transparent, services throughout my career. I'm a whole-systems thinker, believe that reliability is everyone's responsibility, and know that empathy and moral decision making are key engineering skills.
 
-My favorite programming language is Go, and I also am generally a fan of Python, Rust, Haskell, JavaScript/TypeScript, SvelteKit, and Pkl. I prefer vim over emacs and zsh over bash. In general I have varied interests in tech, including: SRE strategy, systems design, platform engineering, vintage Apple products, and functional programming. You can see my full resume [here]({{< ref "resume.md" >}} "Resume").
+My favourite programming language is Go, and I also am generally a fan of Python, Rust, Haskell, JavaScript/TypeScript, SvelteKit, and Pkl. I prefer vim over emacs and zsh over bash. In general I have varied interests in tech, including: SRE strategy, systems design, platform engineering, vintage Apple products, and functional programming. You can see my full resume [here]({{< ref "resume.md" >}} "Resume").
 
-Outside of tech, I'm interested in wine, cocktails, specialty coffee, tea, fine dining, science fiction, Japanese literature, literary fiction, poetry, writing, experimental, participatory, & interactive theater, photography, art broadly, philosophy (specifically moral psychology, philosophy of language, epistemic injustice, and metaphilosophy), linguistics (specifically semantics, pragmatics, and onomastics), OSINT, cycling, and urban planning & history. I dearly miss Anthony Bourdain.
+Outside of tech, I'm interested in wine, cocktails, specialty coffee, tea, fine dining, science fiction, Japanese literature, literary fiction, poetry, writing, experimental, participatory, & interactive theatre, photography, art broadly, philosophy (specifically moral psychology, philosophy of language, epistemic injustice, and metaphilosophy), linguistics (specifically semantics, pragmatics, and onomastics), OSINT, cycling, and urban planning & history. I dearly miss Anthony Bourdain.
 
 I am also deeply invested in justice and equity within tech, especially LGBTQ and gender equity, and I strive for a more perfect internet and a more perfect world, and I'm motivated to cultivate empathy, grace, good faith, and kindness in tech. Please feel free to connect with me, even if you just want to chat!
